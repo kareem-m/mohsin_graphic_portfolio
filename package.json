@@ -1,0 +1,23 @@
+{
+  "name": "mohsin_graphic_portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Kareem ELramady",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-sass": "^6.0.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-uglify": "^3.0.2",
+    "sass": "^1.83.4",
+    "static-server": "^2.2.1",
+    "gulp-livereload": "^4.0.2"
+  }
+}
